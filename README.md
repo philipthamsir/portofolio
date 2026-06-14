@@ -6,7 +6,7 @@ Website portofolio personal premium dengan tema **Sleek Bento Cyber-Minimalism**
 
 *   **3D WebGL Background (Three.js):** Latar belakang partikel 3D berbentuk *Torus Knot* dinamis yang bergerak lembut secara konstan, merespons gerakan kursor mouse (*interactive tilt*), dan berubah kedalamannya (*zoom*) serta berputar lebih cepat saat pengguna melakukan *scrolling* halaman.
 *   **Bento Grid Profile:** Tata letak modular ala Bento Box untuk menampilkan kartu profil interaktif, termasuk widget jam lokal digital (WIB) yang diperbarui secara realtime.
-*   **Featured Projects Grid:** Menampilkan proyek nyata seperti aplikasi web fullstack **sparking.website** dan aplikasi Android **Tasky** lengkap dengan deskripsi, teknologi, serta tautan eksternal.
+*   **Featured Projects Grid:** Menampilkan proyek nyata seperti aplikasi web fullstack **SParking Website** dan aplikasi Android **Tasky** lengkap dengan deskripsi, teknologi, serta tautan eksternal.
 *   **AI-Native Tech Stack Section:** Pengelompokan keahlian yang terbagi secara logis antara dasar akademis (*academic foundations*), kemampuan pengembangan kolaboratif AI (*AI-assisted capabilities*), dan alat produktivitas kerja (*AI-native workflow*).
 *   **Scroll Reveal & Active Navigation:** Animasi transisi masuk yang mulus saat halaman di-scroll serta menu navigasi yang otomatis menyorot bagian halaman yang sedang dibaca pengguna.
 *   **100% Bebas Blokir Adblocker:** Seluruh ikon media sosial menggunakan inline SVG murni untuk menghindari pencekalan oleh pemblokir iklan peramban (*adblockers*).
